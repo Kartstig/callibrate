@@ -1,0 +1,22 @@
+{
+  "name": "callibrate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kartstig/callibrate.git"
+  },
+  "author": "Herman Singh",
+  "license": "",
+  "bugs": {
+    "url": "git@github.com:Kartstig/callibrate/issues"
+  },
+  "dependencies": {
+    "express": "~4.10.2",
+    "socket.io": "~1.2.0"
+  }
+}
